@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=DynaPuff&display=swap");
+
+.mainHome {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(37, 37, 142);
+}
+
+.headingHome {
+  margin-top: 0;
+  font-family: "DynaPuff";
+  color: aqua;
+  position: absolute;
+  top: 40%;
+  left: 30%;
+}
+
+.btn1 {
+  font-family: "DynaPuff";
+  color: aqua;
+  position: absolute;
+  top: 50%;
+}
